@@ -1,0 +1,5 @@
+## Interface: 110000  # Update this to match your WoW version (e.g., 100206 for Dragonflight, 110000 for TWW)
+## Title: Combat Log Viewer
+## Notes: Displays combat log messages in a custom frame with selectable text and a clear button
+## SavedVariables: CombatLogViewerDB
+CombatLogViewer.lua
